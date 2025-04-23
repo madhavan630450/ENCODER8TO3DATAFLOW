@@ -48,12 +48,14 @@ assign b= ( y2 | y3 | y6 | y7);
 assign c= ( y1 | y3 | y5 | y7);
 endmodule
 ```
+```
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:
+Developed by:MARIMUTHU MATHAVN
+RegisterNumber:212224230153
 */
 
+```
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 ![Screenshot 2024-12-03 145234](https://github.com/user-attachments/assets/86592a90-c4ba-42d7-b54d-b2e74b479bfa)
 
